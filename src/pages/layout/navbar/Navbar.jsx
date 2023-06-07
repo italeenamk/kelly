@@ -24,7 +24,14 @@ const Navbar = () => {
                               </ul>
                           </div>
                       </div>
-                      <div className="col-md-3 col-sm-12"></div>
+                      <div className="col-md-3 col-sm-12">
+                          <div className="top-navbar-icon-content">
+                              <i className="fa-brands fa-twitter"></i>
+                              <i className="fa-brands fa-facebook-f"></i>
+                              <i className="fa-brands fa-instagram"></i>
+                              <i className="fa-brands fa-linkedin-in"></i>
+                          </div>
+                      </div>
                   </div>
               </div>
           </section>
