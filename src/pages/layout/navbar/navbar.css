@@ -29,6 +29,10 @@
 .top-navbar-list-content ul li {
     list-style: none;
     margin: 0 21px;
+    border-bottom: 3px solid transparent;
+}
+.top-navbar-list-content ul li:hover {
+    border-bottom: 3px solid #34b7a7;
 }
 .top-navbar-list-content ul li a {
     text-decoration: none;
@@ -38,4 +42,14 @@
 }
 .top-navbar-list-content ul li a:hover {
     color: black;
+}
+.top-navbar-icon-content {}
+.top-navbar-icon-content i {
+    color: #6f6f6f;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 7px;
+}
+.top-navbar-icon-content i:hover {
+    color: #34b7a7;
 }
