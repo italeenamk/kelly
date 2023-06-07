@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 .top-navbar-content {
     background: #e9e8e6;
@@ -23,8 +24,18 @@
 .top-navbar-list-content ul {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
-.top-navbar-list-content ul li {}
-.top-navbar-list-content ul li a {}
-.top-navbar-list-content ul li a {}
+.top-navbar-list-content ul li {
+    list-style: none;
+    margin: 0 21px;
+}
+.top-navbar-list-content ul li a {
+    text-decoration: none;
+    color: #888888;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.top-navbar-list-content ul li a:hover {
+    color: black;
+}

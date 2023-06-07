@@ -12,7 +12,7 @@ const Navbar = () => {
                               <a href="">Kelly</a>
                           </div>
                       </div>
-                      <div className="col-md-6 col-sm-12">
+                      <div className="col-md-6 col-sm-12 text-center">
                           <div className="top-navbar-list-content">
                               <ul>
                                   <li><a href="">Home</a></li>
