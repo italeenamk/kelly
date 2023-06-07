@@ -8,6 +8,7 @@ const Main = () => {
           <h1>hello</h1>
           <h1>hello</h1>
           <h1>hello</h1>
+          <i className="fa-brands fa-facebook"></i>
           <h1>hello</h1>
           <h1>hello</h1>
       </>
