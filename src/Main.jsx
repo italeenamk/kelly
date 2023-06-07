@@ -1,16 +1,10 @@
 import React from "react";
+import Home from "./pages/home/Home";
 
 const Main = () => {
   return(
       <>
-          <h1>hello</h1>
-          <h1>hello</h1>
-          <h1>hellso</h1>
-          <h1>hello</h1>
-          <h1>hello</h1>
-          <i className="fa-brands fa-facebook"></i>
-          <h1>hello</h1>
-          <h1>hello</h1>
+          <Home/>
       </>
   )
 }
