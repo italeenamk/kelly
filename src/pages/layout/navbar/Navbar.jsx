@@ -24,7 +24,7 @@ const Navbar = () => {
                               </ul>
                           </div>
                       </div>
-                      <div className="col-md-3 col-sm-12">
+                      <div className="col-md-3 col-sm-12 text-right">
                           <div className="top-navbar-icon-content">
                               <i className="fa-brands fa-twitter"></i>
                               <i className="fa-brands fa-facebook-f"></i>
